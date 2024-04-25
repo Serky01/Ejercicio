@@ -1,0 +1,59 @@
+@charset "utf-8";
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+    color: #AD0E11;
+    background-color: #6FE6BD;
+}
+.container div footer {
+    background-color: #044831;
+    color: #BAE4D6;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+
+.col-xl-4 .card.col-md-4.col-xl-12 .card-body {
+    color: #C7EBDC;
+}
+.row .col-xl-4 .card.col-md-4.col-xl-12 {
+    background-color: #12BDF1;
+}
+
+.card.col-md-4.col-xl-12 .card-body .card-title {
+    color: #F30408;
+}
+.col-xl-4 .card.col-md-4.col-xl-12 .card-img-top {
+    padding-top: 20px;
+}
+.col-xl-4 .card.col-md-4.col-xl-12 img {
+    padding-top: 20px;
+}
+.carousel-inner .carousel-item.active .d-block.mx-auto.img-thumbnail.img-fluid {
+    height: 500px;
+    width: auto;
+	}
+.carousel-inner .carousel-item .d-block.mx-auto.img-fluid {
+    height: 500px;
+    width: auto;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light {
+    color: #C0EADC;
+    background-color: #063A29;
+}
+.container .navbar.navbar-expand-lg.navbar-light .navbar-brand {
+    color: #6FE6BD;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #6FE6BD;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #6FE6BD;
+}
+#navbarSupportedContent1 .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+    background-color: #A9E1F2;
+    color: #083324;
+}
+.carousel-item.active .carousel-caption h3 {
+    color: #062219;
+}
